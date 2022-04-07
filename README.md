@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Analytical Skills**
+- 🌱 I’m currently learning **Engineering principles, System Designs, Data structures and Algorithm**
 
-- 💬 Ask me about **UI/UX Design and Wireframes, Frontend(JavaScript, React), Backend(API), AWS, Jenkins(CI/CD), Git, Linux and other miscellaneous from Software Development **
+- 💬 Ask me about **UI/UX, Frontend(JavaScript, React.js), Backend(Java, node.js), AWS Cloud, Jenkins(CI/CD), Git, Linux and other miscellaneous tools and technologies for software development.**
 
 
 <h3 align="left">Languages and Tools:</h3>
