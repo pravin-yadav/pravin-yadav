@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Engineering principles, System Design, Data structures and Algorithm**
 
-- 💬 Ask me about ** UI/UX, Frontend(JavaScript, React.js), Backend(Java(Spring boot), Node.js), AWS Cloud, Jenkins(CI/CD), Web servers(Niginx, Apache), Git, Linux and other miscellaneous tools and technologies for software development **
+- 💬 Ask me about ** UI/UX, Frontend(JavaScript, React.js), Backend(Java(Spring boot), Node.js), AWS Cloud, CI/CD(Jenkins), Web servers(Niginx, Apache), Git, Linux and other miscellaneous tools and technologies for software development **
 
 
 <h3 align="left">Languages and Tools:</h3>
