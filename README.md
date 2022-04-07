@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <h1 align="left">I'm Pravin Yadav</h1>
-<h3 align="left">Experienced product and technology professional from India</h3>
+<h3 align="left">Experienced software and technology professional from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravin-yadav" alt="pravin-yadav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Engineering principles, System Designs, Data structures and Algorithm**
+- 🌱 I’m currently learning **Engineering principles, System Design, Data structures and Algorithm**
 
-- 💬 Ask me about **UI/UX, Frontend(JavaScript, React.js), Backend(Java, node.js), AWS Cloud, Jenkins(CI/CD), Git, Linux and other miscellaneous tools and technologies for software development.**
+- 💬 Ask me about UI/UX, Frontend(JavaScript, React.js), Backend(Java, node.js), AWS Cloud, Jenkins(CI/CD), Git, Linux and other miscellaneous tools and technologies for software development
 
 
 <h3 align="left">Languages and Tools:</h3>
